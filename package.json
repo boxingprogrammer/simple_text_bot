@@ -1,0 +1,27 @@
+{
+  "name": "simple_text_bot",
+  "version": "1.0.0",
+  "description": "Simple Text Chatbot Example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "claudia": "^1.9.0",
+    "claudia-bot-builder": "^2.10.0",
+    "huh": "^2.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boxingprogrammer/simple_text_bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/boxingprogrammer/simple_text_bot/issues"
+  },
+  "homepage": "https://github.com/boxingprogrammer/simple_text_bot#readme",
+  "devDependencies": {
+    "claudia": "^1.9.0"
+  }
+}
